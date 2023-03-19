@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Tummala-Venkatesh/Tummala-Venkatesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Charan-Nandarapu/Charan-Nandarapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Venkatesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tummala-Venkatesh&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tummala-Venkatesh&layout=compact)](https://github.com/Tummala-Venkatesh/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=Tummala-Venkatesh&color=brightgreen&label=PROFILE+VIEWS)
